@@ -10,14 +10,8 @@
 - **[Homework Bot](https://github.com/StepanenkoStanislav/homework_bot/)** - Telegram Bot для отслеживания статуса домашней работы в Яндекс Практикум
 - **[YaMDb](https://github.com/StepanenkoStanislav/yamdb)** - Командная работа. Сервис YaMDb собирает отзывы пользователей на произведения.
 - **[YaTube API](https://github.com/StepanenkoStanislav/yatube_api)**  - Сервис api_yatube позволяет приложениям взаимодействовать с YaTube.
-
-На текущем этапе:
-
-- 🔭 Заканчиваю курс Яндекс Практикум Python разработчик
-
-- 🌱 Изучаю FastAPI
   
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/StepanenkoStanislav-blue?logo=telegram&logoColor=white)](https://t.me/tme_zoom) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stepanenko.s.a.dev@gmail.com)
+📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/StepanenkoStanislav-blue?logo=telegram&logoColor=white)](https://t.me/tme_zoom) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stepanenko.s.a.dev@gmail.com)
 
 ### 💻 Технологии:
 <div>
